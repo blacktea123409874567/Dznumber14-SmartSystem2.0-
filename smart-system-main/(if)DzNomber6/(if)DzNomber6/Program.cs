@@ -5,6 +5,17 @@ class Program
 {
     static void Main(string[] args)
     {
+
+
+
+
+//ОТВЕТ НА ВОПРОС В README
+
+
+
+        
+
+        
         HomeManager manager = new HomeManager();
 
         manager.DisplayAllDevicesStatus();
@@ -66,3 +77,4 @@ class Program
 
     }
 }
+
