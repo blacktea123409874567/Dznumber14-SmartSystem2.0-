@@ -1,0 +1,28 @@
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.exe
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.deps.json
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.dll
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.pdb
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.dll
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\refint\(if)DzNomber6.dll
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.pdb
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\ref\(if)DzNomber6.dll
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.GeneratedMSBuildEditorConfig.editorconfig
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.AssemblyInfoInputs.cache
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.AssemblyInfo.cs
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.csproj.CoreCompileInputs.cache
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.dll
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\refint\(if)DzNomber6.dll
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.pdb
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.exe
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.deps.json
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.runtimeconfig.json
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.dll
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\bin\Debug\net8.0\(if)DzNomber6.pdb
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\(if)DzNomber6.genruntimeconfig.cache
+E:\скачено с гугла\smart-system-main\(if)DzNomber6\(if)DzNomber6\obj\Debug\net8.0\ref\(if)DzNomber6.dll

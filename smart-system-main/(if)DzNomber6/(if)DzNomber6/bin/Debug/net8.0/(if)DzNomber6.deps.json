@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "(if)DzNomber6/1.0.0": {
+        "runtime": {
+          "(if)DzNomber6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "(if)DzNomber6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
